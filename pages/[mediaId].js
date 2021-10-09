@@ -1,5 +1,5 @@
 import React from "react";
-import { VideoBox } from "./components/VideoBox";
+import VideoBox from "./components/VideoBox";
 import Navbar from "./components/Navbar";
 
 const video1 = "8z9of3maj9";
