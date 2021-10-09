@@ -4,10 +4,10 @@ export default function Navbar({ video1, video2 }) {
   return (
     <>
       <div>
-        <StyledLink href={video1} text="Video 1" />
+        <StyledLink href={video1 ?? ''} text="Video 1" />
       </div>
       <div>
-        <StyledLink href={video2} text="Video 2" />
+        <StyledLink href={video2 ?? ''} text="Video 2" />
       </div>
     </>
   );
