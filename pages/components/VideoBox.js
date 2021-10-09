@@ -1,7 +1,7 @@
 import { Helmet } from "react-helmet";
 import Image from "next/image";
 
-export const default VideoBox = ({ videoId }) => {
+const VideoBox = ({ videoId }) => {
   return (
     <>
       <Helmet>
@@ -44,3 +44,5 @@ export const default VideoBox = ({ videoId }) => {
     </>
   );
 };
+
+export default VideoBox;
