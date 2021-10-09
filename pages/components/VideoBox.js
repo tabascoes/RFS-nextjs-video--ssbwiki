@@ -1,7 +1,7 @@
 import { Helmet } from "react-helmet";
 import Image from "next/image";
 
-export const VideoBox = ({ videoId }) => {
+export default const VideoBox = ({ videoId }) => {
   return (
     <>
       <Helmet>
