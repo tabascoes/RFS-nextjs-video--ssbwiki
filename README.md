@@ -1,6 +1,7 @@
 # 引用
  - https://stackoverflow.com/questions/53328408/receiving-attempted-import-error-in-react-app
  - https://ocws.jp/blog/es6-the-reason-export-default-is-not-available-in-const/
+ - https://github.com/wpengine/faustjs/issues/361
 
 
 # Hello World example
