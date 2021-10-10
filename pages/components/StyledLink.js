@@ -2,9 +2,9 @@ import Link from "next/link";
 
 export default function StyledLink({ href, text }) {
   return (
-    <Link href={href}>
+    <Link href={href ?? ''}>
       <a
-        href={href}
+        href={href ?? ''}
         style={{ textDecoration: "none" }}
         _hover={{ textDecoration: "underline" }}
       >
