@@ -3,6 +3,9 @@
  - https://ocws.jp/blog/es6-the-reason-export-default-is-not-available-in-const/
  - https://github.com/wpengine/faustjs/issues/361
 
+# Error Occuring
+https://gist.github.com/tabascoes/62789b9f58d57252832f39b555d6bfa9
+
 
 # Hello World example
 
